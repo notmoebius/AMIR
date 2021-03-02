@@ -1,0 +1,19 @@
+body 
+{
+
+	background-color: red;
+}
+
+div{
+	list-style: none;
+	display: inline;
+}
+#content
+{
+	float: right;
+	border: 1px solid black;
+	border-radius: 10px;
+	width: 80%;
+	margin: 0px auto 0px;
+	background-color: #212020;
+}
